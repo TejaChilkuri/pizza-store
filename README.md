@@ -1,4 +1,4 @@
-# pizza-store
+# Pizza-store
 This SQL project focuses on analyzing pizza store sales data with queries that answer key business questions, such as:
 
 - Total orders placed.
